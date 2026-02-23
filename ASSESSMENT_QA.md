@@ -1,8 +1,5 @@
 # Assessment – Questions & Answers  
 **LangGraph Document Chatbot**  
-*(For interviewer – written in plain language, Indian English)*
-
----
 
 ## Section I – Conceptual Understanding
 

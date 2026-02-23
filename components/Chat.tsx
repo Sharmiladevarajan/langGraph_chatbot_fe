@@ -131,7 +131,6 @@ export default function Chat() {
           >
             <option value="openai">OpenAI</option>
             <option value="bytez">Bytez</option>
-            <option value="local">Local (Ollama)</option>
           </select>
         </label>
       </div>
