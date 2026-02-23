@@ -10,7 +10,7 @@ RUN npm install
 COPY . .
 
 # Set backend URL at build time (for rewrites). Use your Render URL when deploying.
-ARG NEXT_PUBLIC_API_URL=http://localhost:8000
+ARG NEXT_PUBLIC_API_URL=https://langgraph-chatbot-be.onrender.com
 ENV NEXT_PUBLIC_API_URL=$NEXT_PUBLIC_API_URL
 
 RUN npm run build
